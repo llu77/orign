@@ -1,0 +1,12 @@
+﻿{
+    "model": "glm-4.5",
+    "max_tokens": 2048,
+    "temperature": 0.5,
+    "top_p": 0.9,
+    "reasoning": true,
+    "long_context": true,
+    "tools": ["programming", "search"],
+    "cache": true,
+    "timeout": 60000,
+    "memory_limit": "8192"
+}
